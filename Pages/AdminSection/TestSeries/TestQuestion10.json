@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary value of marketing education?",
+            "options": {
+                "a": "Increasing revenue",
+                "b": "Enhancing brand awareness",
+                "c": "Developing strategic thinking",
+                "d": "Creating customer loyalty"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following is NOT a potential benefit of marketing education?",
+            "options": {
+                "a": "Understanding consumer behavior",
+                "b": "Improving communication skills",
+                "c": "Reducing competition",
+                "d": "Enhancing decision-making abilities"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "How does marketing education contribute to career growth?",
+            "options": {
+                "a": "By limiting opportunities",
+                "b": "By providing specialized skills",
+                "c": "By decreasing job satisfaction",
+                "d": "By discouraging innovation"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What is the importance of staying updated with marketing education?",
+            "options": {
+                "a": "To avoid professional development",
+                "b": "To remain competitive in the industry",
+                "c": "To limit career advancement",
+                "d": "To decrease job security"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following statements best describes the value of marketing education?",
+            "options": {
+                "a": "It restricts creativity and innovation",
+                "b": "It enhances problem-solving abilities",
+                "c": "It limits career opportunities",
+                "d": "It discourages adaptability"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "How can marketing education benefit businesses?",
+            "options": {
+                "a": "By promoting unethical practices",
+                "b": "By increasing employee turnover",
+                "c": "By improving market positioning",
+                "d": "By limiting customer engagement"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What role does marketing education play in fostering innovation?",
+            "options": {
+                "a": "It stifles creativity",
+                "b": "It encourages risk-taking",
+                "c": "It discourages experimentation",
+                "d": "It limits collaboration"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "How can marketing education contribute to organizational success?",
+            "options": {
+                "a": "By promoting a stagnant culture",
+                "b": "By fostering continuous improvement",
+                "c": "By limiting employee development",
+                "d": "By encouraging complacency"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What is a potential outcome of investing in marketing education?",
+            "options": {
+                "a": "Decreased employee morale",
+                "b": "Increased employee engagement",
+                "c": "Reduced customer satisfaction",
+                "d": "Limited business growth"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "In what way does marketing education contribute to industry innovation?",
+            "options": {
+                "a": "By promoting outdated practices",
+                "b": "By encouraging new ideas and approaches",
+                "c": "By limiting collaboration",
+                "d": "By stifling creativity"
+            },
+            "correct_answer": "b"
+        }
+    ]
+}

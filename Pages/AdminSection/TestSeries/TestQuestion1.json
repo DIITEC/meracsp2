@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Who is considered the father of modern entrepreneurship?",
+            "options": {
+                "a": "Steve Jobs",
+                "b": "Bill Gates",
+                "c": "Peter Drucker",
+                "d": "Elon Musk"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following is not a characteristic of successful entrepreneurs?",
+            "options": {
+                "a": "Risk-taking",
+                "b": "Resilience",
+                "c": "Fear of failure",
+                "d": "Innovation"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What does MVP stand for in the context of entrepreneurship?",
+            "options": {
+                "a": "Most Valuable Product",
+                "b": "Minimum Viable Product",
+                "c": "Market Value Proposition",
+                "d": "Maximum Value Potential"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which entrepreneur famously said, 'The best way to predict the future is to create it'?",
+            "options": {
+                "a": "Mark Zuckerberg",
+                "b": "Jeff Bezos",
+                "c": "Peter Thiel",
+                "d": "Alan Kay"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What is a 'pivot' in the context of startups?",
+            "options": {
+                "a": "A sudden change in business strategy",
+                "b": "A type of investor funding",
+                "c": "A legal document for company registration",
+                "d": "A marketing technique"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following is not a common source of startup funding?",
+            "options": {
+                "a": "Venture capital",
+                "b": "Bootstrapping",
+                "c": "Crowdfunding",
+                "d": "Mortgage loans"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What is 'lean startup' methodology focused on?",
+            "options": {
+                "a": "Rapid product development",
+                "b": "Aggressive marketing tactics",
+                "c": "Long-term planning",
+                "d": "High initial investment"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What term describes the process of selling a product or service before it actually exists?",
+            "options": {
+                "a": "Reverse engineering",
+                "b": "Pre-sale",
+                "c": "Crowdsourcing",
+                "d": "Prototype testing"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What is the main purpose of a business incubator?",
+            "options": {
+                "a": "Providing office space",
+                "b": "Investing in startups",
+                "c": "Offering mentorship and support",
+                "d": "Government regulation"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What is the term for the process of scaling a business after achieving initial success?",
+            "options": {
+                "a": "Expansion",
+                "b": "Diversification",
+                "c": "Growth hacking",
+                "d": "Vertical integration"
+            },
+            "correct_answer": "a"
+        }
+    ]
+}

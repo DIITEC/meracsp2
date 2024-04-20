@@ -1,0 +1,45 @@
+.midcontent-section1{
+    display: flex;
+    gap: 48px;
+    margin: 38px;
+}
+.box{
+    display: flex;
+    gap: 6px;
+    background-color: #4faacc;
+    border-radius: 10px;
+    color: white;
+    width: 210px;
+    padding: 10px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    margin-top: 10px;
+}
+.box>:nth-child(1){
+    height: 58px;
+    width: 57px;
+}
+.midcontent-section2{
+    padding: 10px 10px;
+    background-color: aliceblue;
+    height: 240px;
+}
+.line{
+    width: -webkit-fill-available;
+    height: 2px;
+    background-color: #ebe4e4;
+    margin: 12px 0px;
+}
+.certificate-content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 49px;
+}
+.certificate-box{
+    width: 262px !important;
+    height: 125px !important;
+    margin-right: 86px !important;
+}

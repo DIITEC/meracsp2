@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is a common technique for handling questions and concerns in marketing education?",
+            "options": {
+                "a": "Ignoring them",
+                "b": "Addressing them directly",
+                "c": "Deflecting to another topic",
+                "d": "Interrupting the questioner"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following strategies is effective for handling difficult questions?",
+            "options": {
+                "a": "Providing vague answers",
+                "b": "Being defensive",
+                "c": "Listening actively",
+                "d": "Avoiding eye contact"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What approach is recommended for addressing concerns raised by students?",
+            "options": {
+                "a": "Dismissing their concerns",
+                "b": "Acknowledging and validating their concerns",
+                "c": "Changing the subject",
+                "d": "Blaming others"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT a step in effectively handling questions and concerns?",
+            "options": {
+                "a": "Listening actively",
+                "b": "Providing rehearsed responses",
+                "c": "Empathizing with the questioner",
+                "d": "Seeking clarification if needed"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What is the importance of addressing questions and concerns in marketing education?",
+            "options": {
+                "a": "To intimidate students",
+                "b": "To promote an open learning environment",
+                "c": "To discourage participation",
+                "d": "To showcase authority"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following communication skills is essential for handling questions effectively?",
+            "options": {
+                "a": "Interrupting",
+                "b": "Active listening",
+                "c": "Ignoring",
+                "d": "Speaking over others"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "How can a marketing educator encourage student engagement when handling questions?",
+            "options": {
+                "a": "By avoiding questions altogether",
+                "b": "By providing clear and concise answers",
+                "c": "By asking follow-up questions",
+                "d": "By talking at length without pauses"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What is a potential consequence of dismissing or ignoring student questions and concerns?",
+            "options": {
+                "a": "Increased student confidence",
+                "b": "Improved classroom dynamics",
+                "c": "Decreased student engagement",
+                "d": "Enhanced learning outcomes"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following strategies can help in building rapport with students during question handling?",
+            "options": {
+                "a": "Avoiding eye contact",
+                "b": "Being dismissive",
+                "c": "Demonstrating empathy",
+                "d": "Providing vague responses"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What is a recommended approach for handling questions that the educator is unsure about?",
+            "options": {
+                "a": "Guessing the answer",
+                "b": "Pretending to know the answer",
+                "c": "Admitting uncertainty and offering to find the answer",
+                "d": "Ignoring the question"
+            },
+            "correct_answer": "c"
+        }
+    ]
+}

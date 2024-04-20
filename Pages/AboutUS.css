@@ -1,0 +1,121 @@
+.about-section-part {
+  text-align: center;
+  padding-top: 60px;
+  padding-left: 56px;
+  padding-right: 56px;
+  background-color: #ffffff;
+}
+.about-section-part > :nth-child(1) {
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 32px;
+}
+.about-section-part > :nth-child(2) {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 42px;
+}
+.about-section-part > :nth-child(3) {
+  font-size: 15px;
+  font-weight: 400;
+}
+.about-section-part > :nth-child(4) {
+  font-size: 15px;
+  font-weight: 400;
+}
+.about-section-part > :nth-child(5) {
+  font-size: 15px;
+  font-weight: 400;
+}
+.about-section-part > :nth-child(6) {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.OurTeamBox {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.OurTeambox-top > span {
+  font-size: 15px;
+  font-weight: 600;
+  color: #fd5353;
+  text-decoration: overline;
+  text-decoration-color: #1ac31a;
+}
+.OurTeambox-top > :nth-child(2) {
+  font-size: 24px;
+  font-weight: 700;
+  color: #000000;
+  margin: 0;
+}
+.OurTeambox-top > :nth-child(3) {
+  font-size: 14px;
+  font-weight: 400;
+  color: #5e5e5e;
+  margin-bottom: 36px;
+  margin-top: 6px;
+}
+.Ourteam-ImagesBox > img {
+  width: 78px;
+  border-radius: 50%;
+  height: 78px;
+}
+.OurTeamBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 41px;
+  border-top: 13px solid #d5d5d5;
+}
+.Ourteam-ImagesBox {
+  border: 2px solid #e9e9e9;
+  width: 210px;
+  /* height: 234px; */
+  padding: 21px 39px;
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Ourteam-ImagesBox > p {
+  margin: 10px 0px;
+  font-size: 17px;
+  font-weight: 600;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+.ourTeamImagesBoxes {
+  display: flex;
+  gap: 10px;
+  width: 76%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.Ourteam-ImagesBox > span {
+  font-size: 14px;
+  font-weight: 500;
+  color: #707070;
+  width: 160px;
+}
+.iconOurteam {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 13px;
+  gap: 11px;
+  color: #8f8f8f;
+}
+.iconOurteam > a {
+  color: #8f8f8f;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .about-section-part {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+}

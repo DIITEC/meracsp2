@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What term describes the total amount of money a company receives during a specific period?",
+            "options": {
+                "a": "Revenue",
+                "b": "Profit",
+                "c": "Income",
+                "d": "Cash flow"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following represents money owed by a business to its suppliers or creditors?",
+            "options": {
+                "a": "Assets",
+                "b": "Liabilities",
+                "c": "Equity",
+                "d": "Income"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What term describes the financial statement that shows a company's revenues and expenses over a period of time?",
+            "options": {
+                "a": "Balance sheet",
+                "b": "Income statement",
+                "c": "Cash flow statement",
+                "d": "Statement of retained earnings"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following represents the value of all assets owned by a company minus its liabilities?",
+            "options": {
+                "a": "Equity",
+                "b": "Revenue",
+                "c": "Profit",
+                "d": "Cash flow"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What term describes the financial statement that shows a company's assets, liabilities, and equity at a specific point in time?",
+            "options": {
+                "a": "Balance sheet",
+                "b": "Income statement",
+                "c": "Cash flow statement",
+                "d": "Statement of retained earnings"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following represents the amount of money left over after deducting expenses from revenue?",
+            "options": {
+                "a": "Assets",
+                "b": "Liabilities",
+                "c": "Equity",
+                "d": "Profit"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What term describes the process of spreading the cost of an asset over its useful life?",
+            "options": {
+                "a": "Depreciation",
+                "b": "Amortization",
+                "c": "Accrual",
+                "d": "Leverage"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following represents the amount of money a company has left over after paying its expenses and taxes?",
+            "options": {
+                "a": "Net income",
+                "b": "Gross profit",
+                "c": "Operating profit",
+                "d": "Net profit margin"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What term describes the process of converting assets into cash?",
+            "options": {
+                "a": "Leverage",
+                "b": "Liquidity",
+                "c": "Amortization",
+                "d": "Depreciation"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following represents the total amount of money coming into and going out of a business?",
+            "options": {
+                "a": "Net income",
+                "b": "Gross profit",
+                "c": "Operating cash flow",
+                "d": "Net profit margin"
+            },
+            "correct_answer": "c"
+        }
+    ]
+}

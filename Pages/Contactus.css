@@ -1,0 +1,94 @@
+.contact_mainBox-secondSide > img {
+  width: 445px;
+}
+.contactTextSection {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px !important;
+  gap: 32px;
+  align-items: center;
+  margin: 0px 140px;
+}
+.contact_mainBox-firstSide > :nth-child(2) {
+  font-size: 20px;
+  font-weight: 700;
+  padding-top: 5px;
+}
+.contact_mainBox-firstSide > :nth-child(3) {
+  width: 477px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.fiveTexes {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  font-weight: 700;
+  gap: 3px;
+}
+.sixBoxes {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.sixBoxes > :nth-child(1) {
+  font-size: 19px;
+  font-weight: 800;
+  padding-top: 20px;
+}
+.sixBoxes > :nth-child(2) {
+  font-size: 16px;
+  font-weight: 700;
+}
+.sixBoxes > :nth-child(3) {
+  font-size: 16px;
+  font-weight: 700;
+}
+.sixBoxes > :nth-child(4) {
+  font-size: 20px;
+  font-weight: 700;
+  gap: 15px;
+  padding-top: 16px;
+}
+.sixBoxes > :nth-child(5) {
+  font-size: 15px;
+  font-weight: 400;
+  width: 357px;
+}
+.contact_mainBox-secondSide {
+}
+.contact_mainBox-firstSide {
+}
+
+.contactSection-contactForm {
+  margin-bottom: 30px;
+}
+
+/* Add media query for mobile view */
+@media only screen and (max-width: 768px) {
+  .contact-box {
+    flex-wrap: wrap !important;
+  }
+  .cForm1 {
+    flex-wrap: wrap !important;
+  }
+  .contact_mainBox-firstSide > :nth-child(3) {
+    width: fit-content !important;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .contactTextSection {
+    flex-wrap: wrap-reverse;
+  }
+  .contact_mainBox-secondSide > img {
+    width: 276px !important;
+  }
+  .contact_mainBox-firstSide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 37px;
+  }
+}

@@ -1,0 +1,45 @@
+.loginFormSec {
+  margin: 43px 100px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper > form {
+  border: 1px solid #e5e5e5;
+  padding: 2px 14px !important;
+  width: 448px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+  height: 343px;
+}
+.wrapper > form > button {
+  margin: 11px !important;
+}
+.text-center {
+  margin-top: 24px !important;
+}
+.btn {
+  width: 36%;
+  color: white !important;
+  font-weight: 700 !important;
+  font-size: 17px !important;
+  text-align: center;
+  height: 47px;
+}
+.form-field > input {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  width: 317px;
+  border: 1px solid #cdcdcd;
+  height: 36px;
+  padding: 16px 16px;
+}

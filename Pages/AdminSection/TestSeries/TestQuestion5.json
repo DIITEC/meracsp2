@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What term describes a business strategy that focuses on achieving sustainable growth and profitability over an extended period?",
+            "options": {
+                "a": "Short-termism",
+                "b": "Long-term orientation",
+                "c": "Immediate gratification",
+                "d": "Quick fix approach"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT a characteristic of long-term oriented companies?",
+            "options": {
+                "a": "Patient capital allocation",
+                "b": "Quarterly earnings obsession",
+                "c": "Investment in research and development",
+                "d": "Focus on stakeholder value"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What term describes the practice of reinvesting profits into the business rather than distributing them to shareholders?",
+            "options": {
+                "a": "Dividend payout",
+                "b": "Retained earnings",
+                "c": "Stock buyback",
+                "d": "Bond issuance"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is a potential benefit of long-term orientation for businesses?",
+            "options": {
+                "a": "Immediate financial gains",
+                "b": "Reduced risk-taking",
+                "c": "Enhanced brand reputation",
+                "d": "Short-term market dominance"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the ability of a company to adapt and evolve over time in response to changing market conditions?",
+            "options": {
+                "a": "Market flexibility",
+                "b": "Agile management",
+                "c": "Long-term resilience",
+                "d": "Strategic adaptability"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Which of the following is NOT a factor that influences a company's long-term orientation?",
+            "options": {
+                "a": "Leadership philosophy",
+                "b": "Market volatility",
+                "c": "Investor pressure",
+                "d": "Organizational culture"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What term describes the process of developing and nurturing relationships with customers over an extended period?",
+            "options": {
+                "a": "Customer acquisition",
+                "b": "Customer retention",
+                "c": "Customer churn",
+                "d": "Customer segmentation"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is a common metric used to evaluate long-term performance?",
+            "options": {
+                "a": "Daily stock price",
+                "b": "Quarterly revenue",
+                "c": "Customer lifetime value",
+                "d": "Monthly profit margin"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the process of forecasting future trends and planning accordingly?",
+            "options": {
+                "a": "Short-term forecasting",
+                "b": "Long-term visioning",
+                "c": "Strategic foresight",
+                "d": "Immediate planning"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following is NOT a characteristic of a long-term oriented leader?",
+            "options": {
+                "a": "Impulsiveness",
+                "b": "Visionary",
+                "c": "Empathetic",
+                "d": "Strategic thinker"
+            },
+            "correct_answer": "a"
+        }
+    ]
+}

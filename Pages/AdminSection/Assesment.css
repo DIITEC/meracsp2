@@ -1,0 +1,74 @@
+.assementPannel {
+  display: grid;
+  grid-template-columns: 16% auto;
+}
+
+.assementMainBox {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.head1Assesment {
+  font-size: 20px;
+  color: blue;
+  font-weight: 700;
+  text-decoration: overline;
+  text-decoration-color: red !important;
+}
+.line1 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 100%;
+  height: 2px;
+  color: aliceblue;
+}
+#searchTest {
+  border-radius: 10px;
+  padding: 1px 13px;
+  width: 251px;
+  border: navajowhite;
+  box-shadow: 0px 0px 28px 7px #d9e3ec;
+}
+td {
+  border: 1px solid black !important;
+}
+.examTable > table {
+  width: -webkit-fill-available;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.examTable > table > tbody > tr {
+  height: 60px;
+}
+.takeExam{
+  background-color: red;
+  margin: 10px 10px;
+  color: white;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 3px 6px;
+  border-radius: 7px;
+  cursor: pointer;
+
+}
+.takeExam>a{
+    color: white;
+    text-decoration: none !important;
+}
+.successExam>a{
+    color: white;
+    text-decoration: none !important;
+}
+.successExam{
+  background-color: rgb(36, 87, 255);
+  margin: 10px 10px;
+  color: white;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 3px 6px;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.examTable > table > thead > tr {
+  background-color: aliceblue;
+}

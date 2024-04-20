@@ -1,0 +1,57 @@
+.btns {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.btns > a {
+  cursor: pointer;
+  border: 0;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 0 10px;
+  width: 258px;
+  padding: 10px 0;
+  box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
+  transition: 0.4s;
+  color: white;
+  background-color: rgba(104, 85, 224, 1);
+  text-align: center;
+}
+.btns > :nth-child(1) {
+  color: white;
+  background-color: rgba(104, 85, 224, 1);
+}
+.btns > :nth-child(2) {
+  color: rgb(104, 85, 224);
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(104, 85, 224, 1);
+}
+.btns > a:hover {
+  color: white;
+  box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+  background-color: rgba(104, 85, 224, 1);
+}
+.DigitalMitraEnrollment {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.enrollSec1 {
+  display: flex;
+  justify-content: center;
+}
+.enrollSec1 > .btns {
+  margin-top: 30px;
+  padding: 74px;
+  background-color: #f0f0f0;
+  /* width: 60%; */
+  border-radius: 10px;
+}
+.DigitalMitraEnrollment > img {
+  width: 134px;
+  margin-left: 51px;
+  margin-top: 15px;
+}

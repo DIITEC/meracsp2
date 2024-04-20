@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Who is considered the father of modern entrepreneurship?",
+            "options": {
+                "a": "Peter Drucker",
+                "b": "Richard Cantillon",
+                "c": "Joseph Schumpeter",
+                "d": "Adam Smith"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is not a characteristic of successful entrepreneurs?",
+            "options": {
+                "a": "Perseverance",
+                "b": "Procrastination",
+                "c": "Adaptability",
+                "d": "Vision"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What does ROI stand for in the context of entrepreneurship?",
+            "options": {
+                "a": "Return on Investment",
+                "b": "Risk of Invention",
+                "c": "Rate of Inflation",
+                "d": "Revenue over Income"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which entrepreneur famously said, 'Success is not final, failure is not fatal: It is the courage to continue that counts'?",
+            "options": {
+                "a": "Thomas Edison",
+                "b": "Walt Disney",
+                "c": "Winston Churchill",
+                "d": "Henry Ford"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What is the term for a business model where a company provides a product or service for free, but charges for premium features?",
+            "options": {
+                "a": "Freemium",
+                "b": "Upselling",
+                "c": "Subscription",
+                "d": "Affiliate Marketing"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following is not a common characteristic of successful startups?",
+            "options": {
+                "a": "Strong leadership",
+                "b": "Clear market demand",
+                "c": "Excessive bureaucracy",
+                "d": "Innovative product or service"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the process of promoting a product or service using social media influencers?",
+            "options": {
+                "a": "Influencer marketing",
+                "b": "Viral marketing",
+                "c": "Content marketing",
+                "d": "Guerrilla marketing"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the primary goal of a SWOT analysis in entrepreneurship?",
+            "options": {
+                "a": "To identify strengths, weaknesses, opportunities, and threats",
+                "b": "To forecast financial performance",
+                "c": "To analyze customer demographics",
+                "d": "To determine market share"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What term describes the process of acquiring a startup for its technology rather than its products or services?",
+            "options": {
+                "a": "Acqui-hire",
+                "b": "Venture capital",
+                "c": "Joint venture",
+                "d": "Merger"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following is not a stage in the entrepreneurial process?",
+            "options": {
+                "a": "Idea generation",
+                "b": "Product launch",
+                "c": "Maturity",
+                "d": "Exit strategy"
+            },
+            "correct_answer": "c"
+        }
+    ]
+}

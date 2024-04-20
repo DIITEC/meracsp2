@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the first step in recording a business transaction?",
+            "options": {
+                "a": "Analyzing the transaction",
+                "b": "Posting to the general ledger",
+                "c": "Preparing financial statements",
+                "d": "Identifying the accounts affected"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Which of the following is NOT an example of a business transaction?",
+            "options": {
+                "a": "Paying rent",
+                "b": "Hiring an employee",
+                "c": "Sending an email",
+                "d": "Selling a product"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the document that provides evidence of a business transaction?",
+            "options": {
+                "a": "Ledger",
+                "b": "Invoice",
+                "c": "Balance sheet",
+                "d": "Financial statement"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT a characteristic of a journal entry?",
+            "options": {
+                "a": "Date of the transaction",
+                "b": "Narration describing the transaction",
+                "c": "Amount of the transaction",
+                "d": "Name of the accountant"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What term describes the process of transferring journal entry information to the general ledger?",
+            "options": {
+                "a": "Posting",
+                "b": "Balancing",
+                "c": "Journalizing",
+                "d": "Transcribing"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following is a key principle of double-entry accounting?",
+            "options": {
+                "a": "Recording transactions in a single journal",
+                "b": "Maintaining separate records for assets and liabilities",
+                "c": "Recording each transaction twice",
+                "d": "Balancing accounts only at the end of the year"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes a temporary account used to record revenue, expenses, and withdrawals?",
+            "options": {
+                "a": "Ledger",
+                "b": "Income statement",
+                "c": "Balance sheet",
+                "d": "Trial balance"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT a step in the accounting cycle?",
+            "options": {
+                "a": "Preparing financial statements",
+                "b": "Closing temporary accounts",
+                "c": "Recording adjusting entries",
+                "d": "Posting transactions to the journal"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What term describes the process of ensuring that the accounting equation (Assets = Liabilities + Equity) remains in balance?",
+            "options": {
+                "a": "Balancing",
+                "b": "Reconciliation",
+                "c": "Double-entry accounting",
+                "d": "Trial balance"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Which of the following is NOT a step in preparing a trial balance?",
+            "options": {
+                "a": "Listing all account balances",
+                "b": "Calculating the difference between debits and credits",
+                "c": "Identifying and correcting errors",
+                "d": "Adjusting account balances"
+            },
+            "correct_answer": "d"
+        }
+    ]
+}

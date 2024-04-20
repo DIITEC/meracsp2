@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What term describes the process of systematically recording, analyzing, and interpreting financial information?",
+            "options": {
+                "a": "Business reporting",
+                "b": "Financial management",
+                "c": "Auditing",
+                "d": "Accounting"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Which of the following financial statements provides a snapshot of a company's financial position at a specific point in time?",
+            "options": {
+                "a": "Income statement",
+                "b": "Cash flow statement",
+                "c": "Balance sheet",
+                "d": "Statement of retained earnings"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the process of verifying the accuracy and completeness of financial records?",
+            "options": {
+                "a": "Tax preparation",
+                "b": "Financial analysis",
+                "c": "Auditing",
+                "d": "Forecasting"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following financial statements shows a company's revenues and expenses over a period of time?",
+            "options": {
+                "a": "Balance sheet",
+                "b": "Income statement",
+                "c": "Cash flow statement",
+                "d": "Statement of retained earnings"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What term describes the process of converting financial data into a standardized format for reporting purposes?",
+            "options": {
+                "a": "Financial modeling",
+                "b": "Financial analysis",
+                "c": "Financial reporting",
+                "d": "Financial forecasting"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following financial statements shows how cash flows in and out of a company over a period of time?",
+            "options": {
+                "a": "Income statement",
+                "b": "Balance sheet",
+                "c": "Cash flow statement",
+                "d": "Statement of retained earnings"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the process of preparing financial statements based on generally accepted accounting principles (GAAP)?",
+            "options": {
+                "a": "Financial analysis",
+                "b": "Financial reporting",
+                "c": "Financial forecasting",
+                "d": "Financial management"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following represents the cumulative earnings of a company that have not been distributed to shareholders?",
+            "options": {
+                "a": "Net income",
+                "b": "Gross profit",
+                "c": "Operating profit",
+                "d": "Retained earnings"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What term describes the process of estimating future financial performance based on historical data and market trends?",
+            "options": {
+                "a": "Financial analysis",
+                "b": "Financial modeling",
+                "c": "Financial reporting",
+                "d": "Financial forecasting"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Which of the following financial statements shows changes in a company's retained earnings over a period of time?",
+            "options": {
+                "a": "Income statement",
+                "b": "Balance sheet",
+                "c": "Cash flow statement",
+                "d": "Statement of retained earnings"
+            },
+            "correct_answer": "d"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is NOT a common method for identifying business opportunities?",
+            "options": {
+                "a": "SWOT analysis",
+                "b": "Competitor analysis",
+                "c": "Trial and error",
+                "d": "Market research"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes a business model where a company provides a product or service to meet a specific market need?",
+            "options": {
+                "a": "Market penetration",
+                "b": "Niche market",
+                "c": "Mass market",
+                "d": "Market segmentation"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT a factor to consider when evaluating a business opportunity?",
+            "options": {
+                "a": "Market demand",
+                "b": "Technological trends",
+                "c": "Employee satisfaction",
+                "d": "Regulatory environment"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the process of identifying problems or inefficiencies in existing markets and creating solutions for them?",
+            "options": {
+                "a": "Market segmentation",
+                "b": "Disruptive innovation",
+                "c": "Blue ocean strategy",
+                "d": "Gap analysis"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "Which of the following is NOT a common source of business ideas?",
+            "options": {
+                "a": "Personal hobbies and interests",
+                "b": "Customer feedback",
+                "c": "Government regulations",
+                "d": "Industry trends"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes a business opportunity that arises from technological advancements or changes in consumer behavior?",
+            "options": {
+                "a": "Market gap",
+                "b": "Emerging market",
+                "c": "Disruptive innovation",
+                "d": "Tech trend"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT a step in the process of evaluating a business opportunity?",
+            "options": {
+                "a": "Assessing financial feasibility",
+                "b": "Conducting market research",
+                "c": "Ignoring potential risks",
+                "d": "Analyzing competition"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the process of transforming an idea into a viable business opportunity?",
+            "options": {
+                "a": "Business incubation",
+                "b": "Entrepreneurial inception",
+                "c": "Business ideation",
+                "d": "Opportunity recognition"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What is the main goal of a feasibility study in the context of evaluating business opportunities?",
+            "options": {
+                "a": "To determine market demand",
+                "b": "To assess financial viability",
+                "c": "To analyze competitor strategies",
+                "d": "To identify potential risks"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is NOT a characteristic of a viable business opportunity?",
+            "options": {
+                "a": "High demand",
+                "b": "Low profitability",
+                "c": "Scalability",
+                "d": "Sustainability"
+            },
+            "correct_answer": "b"
+        }
+    ]
+}

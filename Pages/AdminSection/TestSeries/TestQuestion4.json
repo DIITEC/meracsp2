@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is NOT a component of the fixed costs in a business?",
+            "options": {
+                "a": "Rent",
+                "b": "Utilities",
+                "c": "Labor",
+                "d": "Insurance"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes costs that vary with the level of production or sales?",
+            "options": {
+                "a": "Fixed costs",
+                "b": "Variable costs",
+                "c": "Sunk costs",
+                "d": "Marginal costs"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "Which of the following is an example of a semi-variable cost?",
+            "options": {
+                "a": "Raw materials",
+                "b": "Salary of production workers",
+                "c": "Property taxes",
+                "d": "Sales commissions"
+            },
+            "correct_answer": "d"
+        },
+        {
+            "question": "What term describes the additional cost incurred by producing one more unit of a product?",
+            "options": {
+                "a": "Fixed cost",
+                "b": "Variable cost",
+                "c": "Marginal cost",
+                "d": "Total cost"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following is NOT a method for reducing fixed costs?",
+            "options": {
+                "a": "Outsourcing",
+                "b": "Automating processes",
+                "c": "Increasing production volume",
+                "d": "Negotiating lower rent"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What term describes the minimum level of sales a company needs to cover all of its costs?",
+            "options": {
+                "a": "Break-even point",
+                "b": "Profit margin",
+                "c": "Cost threshold",
+                "d": "Revenue target"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "Which of the following is NOT a characteristic of variable costs?",
+            "options": {
+                "a": "Directly proportional to production volume",
+                "b": "Remain constant regardless of production level",
+                "c": "Include raw materials",
+                "d": "Tend to fluctuate"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What term describes costs that have already been incurred and cannot be recovered?",
+            "options": {
+                "a": "Fixed costs",
+                "b": "Variable costs",
+                "c": "Sunk costs",
+                "d": "Marginal costs"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which of the following is an example of an indirect cost?",
+            "options": {
+                "a": "Direct labor",
+                "b": "Raw materials",
+                "c": "Rent for office space",
+                "d": "Manufacturing equipment"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "What is the formula for calculating total cost?",
+            "options": {
+                "a": "Fixed cost + Variable cost",
+                "b": "Fixed cost - Variable cost",
+                "c": "Fixed cost × Variable cost",
+                "d": "Fixed cost ÷ Variable cost"
+            },
+            "correct_answer": "a"
+        }
+    ]
+}
